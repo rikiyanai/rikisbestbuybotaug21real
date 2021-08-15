@@ -11,3 +11,13 @@ MacintoshHD-Data/Users/(username)/bestbuy_bot
 2.Twilio 
 3.Web driver
 4.Scrapy
+
+# Steps:
+ 1. Install project folder so it has same directory^
+ 2. in terminal cd to folder "bestbuy_bot"
+ 3. pip3 install Beautifulsoup, Twilio, Scrapy, 
+
+# Credentials
+
+# Misc Notes
+
